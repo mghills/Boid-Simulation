@@ -1,4 +1,4 @@
-# Boid's Flocking Algorithm/Simulation
+# Boid Flocking Algorithm/Simulation
 
 ![Example Gif of Simulation](./example.gif)
 
